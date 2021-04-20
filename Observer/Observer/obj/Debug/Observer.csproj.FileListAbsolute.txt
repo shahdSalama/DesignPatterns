@@ -1,0 +1,12 @@
+C:\Users\ssalama\source\repos\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\ssalama\source\repos\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\ssalama\source\repos\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\ssalama\source\repos\Observer\Observer\obj\Debug\Observer.pdb
+C:\Users\ssalama\source\repos\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\ssalama\source\repos\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\Observer\Observer\bin\Debug\Observer.exe
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\Observer\Observer\bin\Debug\Observer.pdb
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\Observer\Observer\obj\Debug\Observer.csprojAssemblyReference.cache
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\Observer\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\Observer\Observer\obj\Debug\Observer.exe
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\Observer\Observer\obj\Debug\Observer.pdb

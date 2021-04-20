@@ -1,0 +1,14 @@
+C:\Users\ssalama\source\repos\StrategyPatern\StrategyPatern\bin\Debug\StrategyPatern.exe.config
+C:\Users\ssalama\source\repos\StrategyPatern\StrategyPatern\bin\Debug\StrategyPatern.exe
+C:\Users\ssalama\source\repos\StrategyPatern\StrategyPatern\bin\Debug\StrategyPatern.pdb
+C:\Users\ssalama\source\repos\StrategyPatern\StrategyPatern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\ssalama\source\repos\StrategyPatern\StrategyPatern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\ssalama\source\repos\StrategyPatern\StrategyPatern\obj\Debug\StrategyPatern.exe
+C:\Users\ssalama\source\repos\StrategyPatern\StrategyPatern\obj\Debug\StrategyPatern.pdb
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\StrategyPatern\StrategyPatern\bin\Debug\StrategyPatern.exe.config
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\StrategyPatern\StrategyPatern\bin\Debug\StrategyPatern.exe
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\StrategyPatern\StrategyPatern\bin\Debug\StrategyPatern.pdb
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\StrategyPatern\StrategyPatern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\StrategyPatern\StrategyPatern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\StrategyPatern\StrategyPatern\obj\Debug\StrategyPatern.exe
+C:\Users\Wordbee Partner\Desktop\Projects\Design Patterns and Solid\StrategyPatern\StrategyPatern\obj\Debug\StrategyPatern.pdb
