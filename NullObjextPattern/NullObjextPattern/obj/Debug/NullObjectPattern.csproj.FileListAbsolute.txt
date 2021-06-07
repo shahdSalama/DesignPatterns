@@ -1,0 +1,7 @@
+C:\Users\yousef\source\repos\NullObjextPattern\NullObjextPattern\bin\Debug\NullObjextPattern.exe.config
+C:\Users\yousef\source\repos\NullObjextPattern\NullObjextPattern\bin\Debug\NullObjextPattern.exe
+C:\Users\yousef\source\repos\NullObjextPattern\NullObjextPattern\bin\Debug\NullObjextPattern.pdb
+C:\Users\yousef\source\repos\NullObjextPattern\NullObjextPattern\obj\Debug\NullObjectPattern.csproj.CoreCompileInputs.cache
+C:\Users\yousef\source\repos\NullObjextPattern\NullObjextPattern\obj\Debug\NullObjextPattern.exe
+C:\Users\yousef\source\repos\NullObjextPattern\NullObjextPattern\obj\Debug\NullObjextPattern.pdb
+C:\Users\yousef\source\repos\NullObjextPattern\NullObjextPattern\obj\Debug\NullObjectPattern.csprojAssemblyReference.cache
